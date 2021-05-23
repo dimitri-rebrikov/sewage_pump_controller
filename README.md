@@ -16,5 +16,6 @@ Instead just decrease the C3.
 For the power supply I used just a common USB mobile phone charger.
 
 ![Circuit Diagram](./sewage_pump_controller_sch.png)
+![Component Diagram](./component_diagram.png)
 ![PCB](./sewage_pump_controller_pcb.jpg)
 ![Assembled](./sewage_pump_controller_assembled.jpg)
