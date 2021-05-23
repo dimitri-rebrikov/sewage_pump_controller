@@ -13,6 +13,8 @@ If you need longer time feel free to incerase R3 or RV1 or C3.
 If you need shorter time pay attention that the R3 shall not be decreased as otherwise the Q1 which is connected over D1 will stop working in key mode.
 Instead just decrease the C3. 
 
+For the power supply I used just a common USB mobile phone charger.
+
 ![Circuit Diagram](./sewage_pump_controller_sch.png)
 ![PCB](./sewage_pump_controller_pcb.jpg)
 ![Assembled](./sewage_pump_controller_assembled.jpg)
